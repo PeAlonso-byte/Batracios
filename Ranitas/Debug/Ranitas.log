@@ -1,0 +1,6 @@
+﻿  Ranitas.cpp
+C:\Users\Pedro\source\repos\Ranitas\Ranitas.cpp(42,59): warning C4474: "sprintf": se pasaron demasiados argumentos para la cadena de formato
+C:\Users\Pedro\source\repos\Ranitas\Ranitas.cpp(42,59): message : los marcadores de posición y sus parámetros esperan 0 argumentos variádicos, pero se proporcionaron 1
+C:\Users\Pedro\source\repos\Ranitas\Ranitas.cpp(50,82): warning C4474: "sprintf": se pasaron demasiados argumentos para la cadena de formato
+C:\Users\Pedro\source\repos\Ranitas\Ranitas.cpp(50,82): message : los marcadores de posición y sus parámetros esperan 0 argumentos variádicos, pero se proporcionaron 1
+  Ranitas.vcxproj -> C:\Users\Pedro\source\repos\Ranitas\Debug\Ranitas.exe
