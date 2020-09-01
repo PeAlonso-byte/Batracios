@@ -1,2 +1,2 @@
 # Batracios
-Ranitassssss
+Frogger game using c and syncronized threads.
